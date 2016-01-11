@@ -34,7 +34,7 @@ module.exports.routes = {
 
   /*
     Default controller
-    test 2
+    test 3
    */
   '/': 'DefaultController.home'
 
