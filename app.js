@@ -52,6 +52,8 @@ process.chdir(__dirname);
       rc = function () { return {}; };
     }
   }
+  
+  //test
 
 
   // Start server
